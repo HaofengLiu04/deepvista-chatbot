@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Logs
+*.log
+backend/uvicorn.log
+frontend/http.log
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Node modules (if any)
+node_modules/
+
+# Others
+*.pid
