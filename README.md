@@ -6,9 +6,7 @@
 
 
 
-# Video walkthrough
 
-https://drive.google.com/file/d/18B0yHLBUM2CSRRZuOD9DR8HubWiISosn/view?usp=sharing
 
 # DeepVista Chatbot
 
